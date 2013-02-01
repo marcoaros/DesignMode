@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DetectData applyID="10086" detectLineID="11" detectTime="2011-10-18 11:33:22"> 
+  <detectItem itemName="NO2">3</detectItem>  
+  <detectItem itemName="CO2">4</detectItem> 
+</DetectData>
